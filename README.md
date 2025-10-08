@@ -14,7 +14,7 @@ Usei a plataforma de teste OpenSea e a plataforma Mintable na elaboração de me
 ### NFT:
 - **DIO Gato definitivo**: [https://testnets.opensea.io/assets/sepolia/0x0376d0f7868092dbcc8493df3506efbb8337e1c1/1](https://testnets.opensea.io/assets/sepolia/0x0376d0f7868092dbcc8493df3506efbb8337e1c1/1)
 
-### NFT - DIO Gato definitivo
+### NFT - DIO Gato Definitivo
 ![NFT - Gato definitivo](https://github.com/user-attachments/assets/61bf105b-4a1e-4793-98a0-78068b7ef67b)
 
 ### Contract:
@@ -31,7 +31,7 @@ Usei a plataforma de teste OpenSea e a plataforma Mintable na elaboração de me
 ### NFT:
 - **Gata definitiva**: [https://marketplace.mintable.com/dashboard/tokens/dio-agathodaimon-colection:92055991673738269896323277532133376116923154842763333059039411907554795587620](https://marketplace.mintable.com/dashboard/tokens/dio-agathodaimon-colection:92055991673738269896323277532133376116923154842763333059039411907554795587620)
 
-### NFT - Gata definitiva
+### NFT - Gata Definitiva
 ![NFT - Gata definitiva](https://github.com/user-attachments/assets/fe6f93fa-b279-4231-bde1-d99a8c55173c)
 
 
